@@ -3,6 +3,13 @@
 
 ---
 
+### 📕 Book
+Real MySQL 8.0
+![image](https://github.com/woowacourse-study/2023-DB-Study-BE/assets/46810837/4c93af1d-588a-4f89-90b2-5a9bd3503f87?size=700)
+
+
+---
+
 ### ⭐️ Member
 |![](https://github.com/cl8d.png?size=100)|![](https://github.com/splitCoding.png?size=100)|![](https://github.com/bguga.png?size=100)|![](https://github.com/nuyh99.png?size=100)|![](https://github.com/wonyongChoi05.png?size=100)|
 |:-:|:-:|:-:|:-:|:-:|
